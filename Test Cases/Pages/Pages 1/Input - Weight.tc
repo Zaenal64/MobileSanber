@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input - Weight</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>beec7f7d-cea9-4e76-846f-9f9a561e9c8d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e3f93d1-02e7-467a-a52c-4ed299b9a730</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'69'</defaultValue>
+      <description></description>
+      <id>0e3f93d1-02e7-467a-a52c-4ed299b9a730</id>
+      <masked>false</masked>
+      <name>Weight</name>
+   </variable>
+</TestCaseEntity>
